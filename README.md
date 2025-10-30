@@ -7,7 +7,7 @@ function addTask(task) {
   console.log("Task added:", task);
 }
 
-functio showTasks() {
+function showTasks() {
   console.log("Todo List:", todos);
 }
 
