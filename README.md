@@ -8,7 +8,7 @@ function addTask(task) {
 }
 
 function showTasks() {
-  console.log("Todo List:", todos);
+  console.log("Todos List:", todos);
 }
 
 addTask("Learn GitHub");
