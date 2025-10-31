@@ -3,7 +3,7 @@ testing my
 let todos = [];
 
 function addTask(task) {
-  todos.push(task);
+  todo.push(task);
   console.log("Task added:", task);
 }
 
