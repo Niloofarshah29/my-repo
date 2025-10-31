@@ -4,7 +4,7 @@ let todos = [];
 
 function addTask(task) {
   todo.push(task);
-  consol.log("Task added:", task);
+  console.log("Task added:", task);
 }
 
 function showTasks() {
