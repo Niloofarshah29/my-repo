@@ -11,6 +11,6 @@ function showTasks() {
   console.log("Todos List:", todos);
 }
 
-addTask("Learn GitHub");
+addTas("Learn GitHub");
 addTask("Upload projects");
 showTasks();
