@@ -13,4 +13,4 @@ function showTasks() {
 
 addTask("Learn GitHub");
 addTask("Upload projects");
-showTasks();
+showTask();
