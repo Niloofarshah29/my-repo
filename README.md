@@ -12,5 +12,5 @@ function showTasks() {
 }
 
 addTask("Learn GitHub");
-addTasks("Upload projects");
+addTask("Upload projects");
 showTask();
