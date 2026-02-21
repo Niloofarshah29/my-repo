@@ -1,6 +1,6 @@
 # my-repo
 testing my
-le todos = [];
+let todos = [];
 
 function addTask(task) {
   todo.push(task);
